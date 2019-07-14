@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stm",
+  "name": "TMod1Try",
+  "description": "My first mod btw",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Alexagon"],
+  "credits": "Suppergerrie2's tutorial and the internet!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
